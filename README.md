@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijith</h1>
-<h3 align="center">A tech enthusiast from India</h3>
-
+[![MasterHeadd](banner.png)]
 - 🔭 I’m currently working on [my portfolio website](abhijith404.netlify.com)
 
 - 🌱 I’m currently learning **Python, Web development**
