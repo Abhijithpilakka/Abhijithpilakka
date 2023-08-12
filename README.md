@@ -1,4 +1,4 @@
-[![MasterHeadd](banner.png)]
+![MasterHeadd](banner.png)
 - 🔭 I’m currently working on [my portfolio website](abhijith404.netlify.com)
 
 - 🌱 I’m currently learning **Python, Web development**
