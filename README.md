@@ -1,7 +1,5 @@
 ![MasterHeadd](banner.png)
-- 🔭 I’m currently working on [my portfolio website](abhijith404.netlify.com)
-
-- 🌱 I’m currently learning **Python, Web development**
+- 🔭 I’m currently working as Software Engineer at Tata Consultancy Services
 
 - 📫 How to reach me **abhijithpilakka@gmail.com**
 
